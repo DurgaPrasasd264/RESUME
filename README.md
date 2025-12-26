@@ -4,7 +4,7 @@ Welcome to my professional portfolio repository! Here you can find my resume and
 
 ## 📄 Resume
 You can view or download my resume here:  
-[Resume PDF](https://github.com/YourUsername/Portfolio/raw/main/Resume.pdf)
+[Resume PDF](https://github.com/DurgaPrasasd264/RESUME/blob/292b9dd4a9a4a55e406a6732b4e2a7652b4c169e/Cyber%20Security%20Resume.pdf)
 
 ## 💻 GitHub Projects
 Some of my key projects:  
